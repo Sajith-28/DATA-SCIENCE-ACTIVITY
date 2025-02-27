@@ -18,8 +18,7 @@
 
 ### 2. For the above dataframe, Write a program to select the data who's attempt is greater than 3.
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/7f1b9ebe-ed25-47d2-9feb-1c07cf91a454)
-
+![image](https://github.com/user-attachments/assets/9c07b1d8-b17b-4f4b-b253-0fa9f8cac043)
 
 ### 3. Write python code for indexing rows and columns based on the following conditions:
 ### Assume we have the following dataframe:
